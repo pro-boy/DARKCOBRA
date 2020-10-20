@@ -7,7 +7,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 PM_IMG = "https://telegra.ph/file/132e17041c9a8ae696474.jpg"
 pm_caption = "**Dᴀʀᴋ Cᴏʙʀᴀ 🅸🆂 🅾🅽🅻🅸🅽🅴**\n"
 
-pm_caption += f"**M ʏ B ᴏ s s**            : {DEFAULTUSER}\n"
+pm_caption += f"**M ʏ  B ᴏ s s**              : {DEFAULTUSER}\n"
 
 pm_caption += "Mʏ Bᴏᴛ Sᴛᴀᴛᴜꜱ        : Wᴏʀᴋɪɴɢ ᴘᴇʀғᴇᴄᴛʟʏ 🔥\n"
 
