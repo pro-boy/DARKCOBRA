@@ -4,20 +4,18 @@ from userbot.utils import admin_cmd
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
-PM_IMG = "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg"
-pm_caption = "**ᴅᴀʀᴋ ᴄᴏʙʀᴀ ɪꜱ ᴏɴʟɪɴᴇ**\n"
+PM_IMG = "https://telegra.ph/file/132e17041c9a8ae696474.jpg"
+pm_caption = "**Dᴀʀᴋ Cᴏʙʀᴀ 🅸🆂 🅾🅽🅻🅸🅽🅴**\n"
 
-pm_caption += f"**M̴y̴ ̴B̴o̴s̴s̴**            : {DEFAULTUSER}\n"
+pm_caption += f"**M ʏ B ᴏ s s**            : {DEFAULTUSER}\n"
 
-pm_caption += "ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ        :  15.0.0 \n"
+pm_caption += "Mʏ Bᴏᴛ Sᴛᴀᴛᴜꜱ        : Wᴏʀᴋɪɴɢ ᴘᴇʀғᴇᴄᴛʟʏ 🔥\n"
 
-pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ          : [ᴊᴏɪɴ](https://t.me/Dark_cobra_support)\n"
+pm_caption += "тєℓєтнσи                   : тєℓєтнσи-15.0.0 𖤐⃟🔷\n"
 
-pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ        : [ᴊᴏɪɴ](https://t.me/Dark_cobra_support_group)\n"
+pm_caption += "ρутнσи                       : ρутнσи-3.8.5 𖤐⃟🔷\n"
 
-pm_caption += "ʟɪᴄᴇɴꜱᴇ                 : [ᴍɪᴛ ʟɪᴄᴇɴꜱᴇ](https://github.com/DARK-COBRA/DARKCOBRA/blob/master/LICENSE)\n"
-
-pm_caption += "ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ            : [ʜᴇʟʟʙᴏɪ - ᴀᴛᴜʟ](https://github.com/hellboi-atul)\n"
+pm_caption += "ι'ℓℓ вє ωιтн му мαѕтєя тιℓℓ му ∂уиσ єи∂ѕ!!☠ 𖤐⃟🛰\n ραят σғ тнε נσυяηεү ιs тнε εη∂\n"
 
 pm_caption += "[ ┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/Dark_cobra_support_group)"
 #@command(outgoing=True, pattern="^.alive$")
