@@ -64,7 +64,7 @@ async def _(event):
     end = datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(
-        f"__**✦҈͜͡➳ █▀▄   ▄▀▄    █▄   █    ▄▀      █  ██▀      ▀▄▀    █   ▀█    ▀▄█   ▄  ▄!__**\n★ {ms}\n★ __**Mʏ**__ __**Bᴏss**__ [{DEFAULTUSER}]"
+        f"__**✦҈͜͡➳ █▀▄   ▄▀▄    █▄   █    ▄▀      █  ██▀      ▀▄▀    █   ▀█    ▀▄█   ▄  ▄__**\n★ {ms}\n★ __**M̵͖̠͓̾̈́͝Ÿ̵̞̠͇́̔̓**__ __**M̸̦̙̘͊̈́A̴̦̞̝͒̓̓S̸͓͇͎͛͑͠T̴͚͖̈́̾̈́E̵͉̙̫̒̓̚R̵̡͔͓̔͛͘**__ [{DEFAULTUSER}]"
     )
 
 
